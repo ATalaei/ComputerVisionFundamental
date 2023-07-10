@@ -1,6 +1,6 @@
 # ComputerVisionFundamental
-course at Isfahan university of technologhy
+course at Isfahan university of Technology
 
-each branches one homework or project
+each branch one homework or project
 
-you can see all PDF of problem in main branch
+you can see all PDFs of the problem in the main branch
